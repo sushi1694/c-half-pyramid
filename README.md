@@ -1,0 +1,1 @@
+# c-half-pyramid
